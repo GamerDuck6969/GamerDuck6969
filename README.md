@@ -12,4 +12,4 @@ Languages I want to learn in the future:
 - Go
 - Rust
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TmGL&theme=synthwave"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerDuck6969&theme=synthwave"/>
