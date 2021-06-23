@@ -8,7 +8,7 @@ Languages I am decent at:
 - HTML / CSS
 - Python
 
-Languages I am still learning:
+Languages I want to learn in the future:
 - Go
 - Rust
 
