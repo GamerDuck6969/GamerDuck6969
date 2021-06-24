@@ -1,1 +1,1 @@
-https://tenor.com/view/your-mom-spy-tf2-team-fortress2-sheesh-gif-21838783
+![image](https://media.discordapp.net/attachments/586868366321516591/783050728968421426/image0-17.gif)
